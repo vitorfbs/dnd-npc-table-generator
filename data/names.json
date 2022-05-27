@@ -1,0 +1,1743 @@
+[
+    {
+        "human": {
+            "male": [
+                {
+                    "name": "Alexei"
+                }, 
+                {
+                    "name": "Adenir"
+                }, 
+                {
+                    "name": "Arthur"
+                }, 
+                {
+                    "name": "Apolo"
+                }, 
+                {
+                    "name": "Ary"
+                }, 
+                {
+                    "name": "Alfonso"
+                }, 
+                {
+                    "name": "Alonzo"
+                }, 
+                {
+                    "name": "Adrian"
+                }, 
+                {
+                    "name": "Andre"
+                }, 
+                {
+                    "name": "Angelo"
+                }, 
+                {
+                    "name": "Bren"
+                }, 
+                {
+                    "name": "Bael"
+                }, 
+                {
+                    "name": "Bev"
+                }, 
+                {
+                    "name": "Bert"
+                }, 
+                {
+                    "name": "Boren"
+                }, 
+                {
+                    "name": "Bras"
+                }, 
+                {
+                    "name": "Bose"
+                }, 
+                {
+                    "name": "Baldir"
+                }, 
+                {
+                    "name": "Brandon"
+                }, 
+                {
+                    "name": "Barge"
+                }, 
+                {
+                    "name": "Cleto"
+                }, 
+                {
+                    "name": "Cesar"
+                }, 
+                {
+                    "name": "Cuno"
+                }, 
+                {
+                    "name": "Crest"
+                }, 
+                {
+                    "name": "Camilo"
+                }, 
+                {
+                    "name": "Ciro"
+                }, 
+                {
+                    "name": "Carmino"
+                }, 
+                {
+                    "name": "Chen"
+                }, 
+                {
+                    "name": "Chao"
+                }, 
+                {
+                    "name": "Cass"
+                }, 
+                {
+                    "name": "Dario"
+                }, 
+                {
+                    "name": "Demetrio"
+                }, 
+                {
+                    "name": "Daniel"
+                }, 
+                {
+                    "name": "Desmond"
+                }, 
+                {
+                    "name": "Diogenes"
+                }, 
+                {
+                    "name": "Dular"
+                }, 
+                {
+                    "name": "Dirceu"
+                }, 
+                {
+                    "name": "Dred"
+                }, 
+                {
+                    "name": "David"
+                }, 
+                {
+                    "name": "Daron"
+                }, 
+                {
+                    "name": "Eduardo"
+                }, 
+                {
+                    "name": "Emir"
+                }, 
+                {
+                    "name": "Elton"
+                }, 
+                {
+                    "name": "Ergo"
+                }, 
+                {
+                    "name": "Elohim"
+                }, 
+                {
+                    "name": "Elias"
+                }, 
+                {
+                    "name": "Evram"
+                }, 
+                {
+                    "name": "Evans"
+                }, 
+                {
+                    "name": "Eggsy"
+                }, 
+                {
+                    "name": "Eller"
+                }, 
+                {
+                    "name": "Ferdinando"
+                }, 
+                {
+                    "name": "Farlan"
+                }, 
+                {
+                    "name": "Frederico"
+                }, 
+                {
+                    "name": "Fuad"
+                }, 
+                {
+                    "name": "Ford"
+                }, 
+                {
+                    "name": "Filipe"
+                }, 
+                {
+                    "name": "Flange"
+                }, 
+                {
+                    "name": "Forin"
+                }, 
+                {
+                    "name": "Fez"
+                }, 
+                {
+                    "name": "Franz"
+                }, 
+                {
+                    "name": "Gabriel"
+                }, 
+                {
+                    "name": "Gale"
+                }, 
+                {
+                    "name": "Grin"
+                }, 
+                {
+                    "name": "Gael"
+                }, 
+                {
+                    "name": "Gop"
+                }, 
+                {
+                    "name": "Gen"
+                }, 
+                {
+                    "name": "Gino"
+                }, 
+                {
+                    "name": "Garbo"
+                }, 
+                {
+                    "name": "Glenn"
+                }, 
+                {
+                    "name": "Guliver"
+                }, 
+                {
+                    "name": "Heitor"
+                }, 
+                {
+                    "name": "Hector"
+                }, 
+                {
+                    "name": "Henri"
+                }, 
+                {
+                    "name": "Haroldo"
+                }, 
+                {
+                    "name": "Hermes"
+                }, 
+                {
+                    "name": "Hito"
+                }, 
+                {
+                    "name": "Hal"
+                }, 
+                {
+                    "name": "Ham"
+                }, 
+                {
+                    "name": "Holler"
+                }, 
+                {
+                    "name": "Henrico"
+                }, 
+                {
+                    "name": "Iago"
+                }, 
+                {
+                    "name": "Ian"
+                }, 
+                {
+                    "name": "Irineu"
+                }, 
+                {
+                    "name": "Italo"
+                }, 
+                {
+                    "name": "Iman"
+                }, 
+                {
+                    "name": "Izzy"
+                }, 
+                {
+                    "name": "Ifran"
+                }, 
+                {
+                    "name": "Icaro"
+                }, 
+                {
+                    "name": "Ipe"
+                }, 
+                {
+                    "name": "Isla"
+                }, 
+                {
+                    "name": "Jonas"
+                }, 
+                {
+                    "name": "James"
+                }, 
+                {
+                    "name": "Jess"
+                }, 
+                {
+                    "name": "Jerico"
+                }, 
+                {
+                    "name": "Juca"
+                }, 
+                {
+                    "name": "Jeda"
+                }, 
+                {
+                    "name": "Jet"
+                }, 
+                {
+                    "name": "Julius"
+                }, 
+                {
+                    "name": "Jesper"
+                }, 
+                {
+                    "name": "Joren"
+                }, 
+                {
+                    "name": "Kelvin"
+                }, 
+                {
+                    "name": "Kevin"
+                }, 
+                {
+                    "name": "Karl"
+                }, 
+                {
+                    "name": "Kretz"
+                }, 
+                {
+                    "name": "Kit"
+                }, 
+                {
+                    "name": "Keith"
+                }, 
+                {
+                    "name": "Kenneth"
+                }, 
+                {
+                    "name": "Klemens"
+                }, 
+                {
+                    "name": "Karto"
+                }, 
+                {
+                    "name": "Korban"
+                }, 
+                {
+                    "name": "Lionel"
+                }, 
+                {
+                    "name": "Leander"
+                }, 
+                {
+                    "name": "Lano"
+                }, 
+                {
+                    "name": "Lobe"
+                }, 
+                {
+                    "name": "Lennie"
+                }, 
+                {
+                    "name": "Leslie"
+                }, 
+                {
+                    "name": "Liam"
+                }, 
+                {
+                    "name": "Lester"
+                }, 
+                {
+                    "name": "Letto"
+                }, 
+                {
+                    "name": "Luan"
+                }, 
+                {
+                    "name": "Manoel"
+                }, 
+                {
+                    "name": "Marfisio"
+                }, 
+                {
+                    "name": "Maerte"
+                }, 
+                {
+                    "name": "Marston"
+                }, 
+                {
+                    "name": "Miguel"
+                }, 
+                {
+                    "name": "Melon"
+                }, 
+                {
+                    "name": "Marco"
+                }, 
+                {
+                    "name": "Mesme"
+                }, 
+                {
+                    "name": "Morgan"
+                }, 
+                {
+                    "name": "Milton"
+                }, 
+                {
+                    "name": "Ned"
+                }, 
+                {
+                    "name": "Nelson"
+                }, 
+                {
+                    "name": "Naldo"
+                }, 
+                {
+                    "name": "Ness"
+                }, 
+                {
+                    "name": "Neto"
+                }, 
+                {
+                    "name": "Nemo"
+                }, 
+                {
+                    "name": "Nero"
+                }, 
+                {
+                    "name": "Nuno"
+                }, 
+                {
+                    "name": "Nefer"
+                }, 
+                {
+                    "name": "Nolan"
+                }, 
+                {
+                    "name": "Omar"
+                }, 
+                {
+                    "name": "Otto"
+                }, 
+                {
+                    "name": "Orion"
+                }, 
+                {
+                    "name": "Orton"
+                }, 
+                {
+                    "name": "Ollie"
+                }, 
+                {
+                    "name": "Ozzy"
+                }, 
+                {
+                    "name": "Oneary"
+                }, 
+                {
+                    "name": "Ossia"
+                }, 
+                {
+                    "name": "Otelo"
+                }, 
+                {
+                    "name": "Osvaldo"
+                }, 
+                {
+                    "name": "Pietro"
+                }, 
+                {
+                    "name": "Pauli"
+                }, 
+                {
+                    "name": "Punto"
+                }, 
+                {
+                    "name": "Preston"
+                }, 
+                {
+                    "name": "Pepe"
+                }, 
+                {
+                    "name": "Posen"
+                }, 
+                {
+                    "name": "Parno"
+                }, 
+                {
+                    "name": "Penor"
+                }, 
+                {
+                    "name": "Plesio"
+                }, 
+                {
+                    "name": "Pieran"
+                }, 
+                {
+                    "name": "Quintanilha"
+                }, 
+                {
+                    "name": "Quentin"
+                }, 
+                {
+                    "name": "Quisen"
+                }, 
+                {
+                    "name": "Quincas"
+                }, 
+                {
+                    "name": "Querubim"
+                }, 
+                {
+                    "name": "Quintilo"
+                }, 
+                {
+                    "name": "Quirino"
+                }, 
+                {
+                    "name": "Quiliom"
+                }, 
+                {
+                    "name": "Quemuel"
+                }, 
+                {
+                    "name": "Quinn"
+                }, 
+                {
+                    "name": "Regis"
+                }, 
+                {
+                    "name": "Ricardo"
+                }, 
+                {
+                    "name": "Richard"
+                }, 
+                {
+                    "name": "Rasmos"
+                }, 
+                {
+                    "name": "Romulo"
+                }, 
+                {
+                    "name": "Rian"
+                }, 
+                {
+                    "name": "Renne"
+                }, 
+                {
+                    "name": "Rizzo"
+                }, 
+                {
+                    "name": "Raul"
+                }, 
+                {
+                    "name": "Roland"
+                }, 
+                {
+                    "name": "Saulo"
+                }, 
+                {
+                    "name": "Severino"
+                }, 
+                {
+                    "name": "Sebastian"
+                }, 
+                {
+                    "name": "Solomon"
+                }, 
+                {
+                    "name": "Senna"
+                }, 
+                {
+                    "name": "Soren"
+                }, 
+                {
+                    "name": "Silas"
+                }, 
+                {
+                    "name": "Samuel"
+                }, 
+                {
+                    "name": "Sergio"
+                }, 
+                {
+                    "name": "Serian"
+                }, 
+                {
+                    "name": "Tadeu"
+                }, 
+                {
+                    "name": "Timotio"
+                }, 
+                {
+                    "name": "Teller"
+                }, 
+                {
+                    "name": "Tomen"
+                }, 
+                {
+                    "name": "Trento"
+                }, 
+                {
+                    "name": "Tremere"
+                }, 
+                {
+                    "name": "Tomas"
+                }, 
+                {
+                    "name": "Teb"
+                }, 
+                {
+                    "name": "Tico"
+                }, 
+                {
+                    "name": "Telar"
+                }, 
+                {
+                    "name": "Ulisses"
+                }, 
+                {
+                    "name": "Uren"
+                }, 
+                {
+                    "name": "Uira"
+                }, 
+                {
+                    "name": "Ulrico"
+                }, 
+                {
+                    "name": "Uba"
+                }, 
+                {
+                    "name": "Venicio"
+                }, 
+                {
+                    "name": "Vance"
+                }, 
+                {
+                    "name": "Vern"
+                }, 
+                {
+                    "name": "Viktor"
+                }, 
+                {
+                    "name": "Volt"
+                }, 
+                {
+                    "name": "Vilas"
+                }, 
+                {
+                    "name": "Vent"
+                }, 
+                {
+                    "name": "Vulcan"
+                }, 
+                {
+                    "name": "Vinn"
+                }, 
+                {
+                    "name": "Vex"
+                }, 
+                {
+                    "name": "William"
+                }, 
+                {
+                    "name": "Wilhelm"
+                }, 
+                {
+                    "name": "Wallace"
+                }, 
+                {
+                    "name": "Wanton"
+                }, 
+                {
+                    "name": "Winston"
+                }, 
+                {
+                    "name": "Waka"
+                }, 
+                {
+                    "name": "Walsburg"
+                }, 
+                {
+                    "name": "Webber"
+                }, 
+                {
+                    "name": "Wellington"
+                }, 
+                {
+                    "name": "Wesley"
+                }, 
+                {
+                    "name": "Xavier"
+                }, 
+                {
+                    "name": "Xin"
+                }, 
+                {
+                    "name": "Xarp"
+                }, 
+                {
+                    "name": "Xolmo"
+                }, 
+                {
+                    "name": "Xeiq"
+                }, 
+                {
+                    "name": "Yuri"
+                }, 
+                {
+                    "name": "Ylag"
+                }, 
+                {
+                    "name": "Yeze"
+                }, 
+                {
+                    "name": "Yilian"
+                }, 
+                {
+                    "name": "Yom"
+                }, 
+                {
+                    "name": "Zeca"
+                }, 
+                {
+                    "name": "Zacarias"
+                }, 
+                {
+                    "name": "Zed"
+                }, 
+                {
+                    "name": "Zora"
+                }, 
+                {
+                    "name": "Zel"
+                }
+            ], 
+            "female": [
+                {
+                    "name": "Aria"
+                }, 
+                {
+                    "name": "Arabella"
+                }, 
+                {
+                    "name": "Alana"
+                }, 
+                {
+                    "name": "Alexia"
+                }, 
+                {
+                    "name": "Ana"
+                }, 
+                {
+                    "name": "Beirin"
+                }, 
+                {
+                    "name": "Brenna"
+                }, 
+                {
+                    "name": "Bianca"
+                }, 
+                {
+                    "name": "Bella"
+                }, 
+                {
+                    "name": "Bessie"
+                }, 
+                {
+                    "name": "Camilla"
+                }, 
+                {
+                    "name": "Catalina"
+                }, 
+                {
+                    "name": "Caterine"
+                }, 
+                {
+                    "name": "Cassandra"
+                }, 
+                {
+                    "name": "Cesaria"
+                }, 
+                {
+                    "name": "Derlina"
+                }, 
+                {
+                    "name": "Darla"
+                }, 
+                {
+                    "name": "Danielle"
+                }, 
+                {
+                    "name": "Donna"
+                }, 
+                {
+                    "name": "Durma"
+                }, 
+                {
+                    "name": "Eliana"
+                }, 
+                {
+                    "name": "Evelin"
+                }, 
+                {
+                    "name": "Elrona"
+                }, 
+                {
+                    "name": "Elizabeth"
+                }, 
+                {
+                    "name": "Esme"
+                }, 
+                {
+                    "name": "Felina"
+                }, 
+                {
+                    "name": "Farla"
+                }, 
+                {
+                    "name": "Fiona"
+                }, 
+                {
+                    "name": "Fasbeth"
+                }, 
+                {
+                    "name": "Frida"
+                }, 
+                {
+                    "name": "Gertrude"
+                }, 
+                {
+                    "name": "Giulia"
+                }, 
+                {
+                    "name": "Giorna"
+                }, 
+                {
+                    "name": "Genie"
+                }, 
+                {
+                    "name": "Gabrielle"
+                }, 
+                {
+                    "name": "Hilda"
+                }, 
+                {
+                    "name": "Hella"
+                }, 
+                {
+                    "name": "Hina"
+                }, 
+                {
+                    "name": "Helen"
+                }, 
+                {
+                    "name": "Helena"
+                }, 
+                {
+                    "name": "Irina"
+                }, 
+                {
+                    "name": "Izzy"
+                }, 
+                {
+                    "name": "Isla"
+                }, 
+                {
+                    "name": "Ilona"
+                }, 
+                {
+                    "name": "Irene"
+                }, 
+                {
+                    "name": "Joana"
+                }, 
+                {
+                    "name": "Jean"
+                }, 
+                {
+                    "name": "Joule"
+                }, 
+                {
+                    "name": "Jessica"
+                }, 
+                {
+                    "name": "Janete"
+                }, 
+                {
+                    "name": "Kellen"
+                }, 
+                {
+                    "name": "Katherina"
+                }, 
+                {
+                    "name": "Killian"
+                }, 
+                {
+                    "name": "Kess"
+                }, 
+                {
+                    "name": "Kadra"
+                }, 
+                {
+                    "name": "Lena"
+                }, 
+                {
+                    "name": "Laura"
+                }, 
+                {
+                    "name": "Luna"
+                }, 
+                {
+                    "name": "Leslie"
+                }, 
+                {
+                    "name": "Lenira"
+                }, 
+                {
+                    "name": "Mirta"
+                }, 
+                {
+                    "name": "Melina"
+                }, 
+                {
+                    "name": "Melissa"
+                }, 
+                {
+                    "name": "Mirtra"
+                }, 
+                {
+                    "name": "Mirian"
+                }, 
+                {
+                    "name": "Nadia"
+                }, 
+                {
+                    "name": "Nilia"
+                }, 
+                {
+                    "name": "Nena"
+                }, 
+                {
+                    "name": "Norma"
+                }, 
+                {
+                    "name": "Nice"
+                }, 
+                {
+                    "name": "Olga"
+                }, 
+                {
+                    "name": "Onera"
+                }, 
+                {
+                    "name": "Olinda"
+                }, 
+                {
+                    "name": "Ornella"
+                }, 
+                {
+                    "name": "Opala"
+                }, 
+                {
+                    "name": "Priscila"
+                }, 
+                {
+                    "name": "Panello"
+                }, 
+                {
+                    "name": "Paulina"
+                }, 
+                {
+                    "name": "Poliana"
+                }, 
+                {
+                    "name": "Pulia"
+                }, 
+                {
+                    "name": "Quellen"
+                }, 
+                {
+                    "name": "Qerina"
+                }, 
+                {
+                    "name": "Quadra"
+                }, 
+                {
+                    "name": "Qalla"
+                }, 
+                {
+                    "name": "Quamalla"
+                }, 
+                {
+                    "name": "Regina"
+                }, 
+                {
+                    "name": "Reniere"
+                }, 
+                {
+                    "name": "Rafaella"
+                }, 
+                {
+                    "name": "Risa"
+                }, 
+                {
+                    "name": "Ronda"
+                }, 
+                {
+                    "name": "Suzana"
+                }, 
+                {
+                    "name": "Siena"
+                }, 
+                {
+                    "name": "Serena"
+                }, 
+                {
+                    "name": "Suelen"
+                }, 
+                {
+                    "name": "Samara"
+                }, 
+                {
+                    "name": "Tatiana"
+                }, 
+                {
+                    "name": "Tamara"
+                }, 
+                {
+                    "name": "Teresa"
+                }, 
+                {
+                    "name": "Tina"
+                }, 
+                {
+                    "name": "Tabata"
+                }, 
+                {
+                    "name": "Uma"
+                }, 
+                {
+                    "name": "Ulia"
+                }, 
+                {
+                    "name": "Ursula"
+                }, 
+                {
+                    "name": "Una"
+                }, 
+                {
+                    "name": "Ulyana"
+                }, 
+                {
+                    "name": "Victoria"
+                }, 
+                {
+                    "name": "Vanessa"
+                }, 
+                {
+                    "name": "Vivian"
+                }, 
+                {
+                    "name": "Venca"
+                }, 
+                {
+                    "name": "Volna"
+                }, 
+                {
+                    "name": "Wanda"
+                }, 
+                {
+                    "name": "Winnie"
+                }, 
+                {
+                    "name": "Winona"
+                }, 
+                {
+                    "name": "Willow"
+                }, 
+                {
+                    "name": "Warner"
+                }, 
+                {
+                    "name": "Xaria"
+                }, 
+                {
+                    "name": "Xena"
+                }, 
+                {
+                    "name": "Xandra"
+                }, 
+                {
+                    "name": "Xiya"
+                }, 
+                {
+                    "name": "Ximena"
+                }, 
+                {
+                    "name": "Yvette"
+                }, 
+                {
+                    "name": "Yara"
+                }, 
+                {
+                    "name": "Yona"
+                }, 
+                {
+                    "name": "Yeva"
+                }, 
+                {
+                    "name": "Yosselin"
+                }, 
+                {
+                    "name": "Zara"
+                }, 
+                {
+                    "name": "Zelda"
+                }, 
+                {
+                    "name": "Zoe"
+                }, 
+                {
+                    "name": "Zada"
+                }, 
+                {
+                    "name": "Zeferina"
+                }
+            ]
+        }
+    }, 
+    {
+        "elf": {
+            "male": [
+                {
+                    "name": "Aegnor"
+                }, 
+                {
+                    "name": "Aego"
+                }, 
+                {
+                    "name": "Agis"
+                }, 
+                {
+                    "name": "Ailmar"
+                }, 
+                {
+                    "name": "Akkar"
+                }, 
+                {
+                    "name": "Beleg"
+                }, 
+                {
+                    "name": "Beluar"
+                }, 
+                {
+                    "name": "Bialaer"
+                }, 
+                {
+                    "name": "Blythe"
+                }, 
+                {
+                    "name": "Braern"
+                }, 
+                {
+                    "name": "Cameron"
+                }, 
+                {
+                    "name": "Celeborn"
+                }, 
+                {
+                    "name": "Cirdan"
+                }, 
+                {
+                    "name": "Conail"
+                }, 
+                {
+                    "name": "Curunir"
+                }, 
+                {
+                    "name": "Dakath"
+                }, 
+                {
+                    "name": "Dior"
+                }, 
+                {
+                    "name": "Doreir"
+                }, 
+                {
+                    "name": "Dalyor"
+                }, 
+                {
+                    "name": "Daynor"
+                }, 
+                {
+                    "name": "Edrahil"
+                }, 
+                {
+                    "name": "Elanjar"
+                }, 
+                {
+                    "name": "Eldar"
+                }, 
+                {
+                    "name": "Eldrin"
+                }, 
+                {
+                    "name": "Evindal"
+                }, 
+                {
+                    "name": "Faelar"
+                }, 
+                {
+                    "name": "Fenris"
+                }, 
+                {
+                    "name": "Filvendor"
+                }, 
+                {
+                    "name": "Folduin"
+                }, 
+                {
+                    "name": "Faenor"
+                }, 
+                {
+                    "name": "Gael"
+                }, 
+                {
+                    "name": "Gaylia"
+                }, 
+                {
+                    "name": "Gaemon"
+                }, 
+                {
+                    "name": "Gil-galad"
+                }, 
+                {
+                    "name": "Glynkas"
+                }, 
+                {
+                    "name": "Haemir"
+                }, 
+                {
+                    "name": "Hagduin"
+                }, 
+                {
+                    "name": "Haryk"
+                }, 
+                {
+                    "name": "Horith"
+                }, 
+                {
+                    "name": "Hubyr"
+                }, 
+                {
+                    "name": "Iefyr"
+                }, 
+                {
+                    "name": "Iliven"
+                }, 
+                {
+                    "name": "Inarie"
+                }, 
+                {
+                    "name": "Intevar"
+                }, 
+                {
+                    "name": "Inchel"
+                }, 
+                {
+                    "name": "Kevan"
+                }, 
+                {
+                    "name": "Kolvar"
+                }, 
+                {
+                    "name": "Kuskyn"
+                }, 
+                {
+                    "name": "Kyrtaar"
+                }, 
+                {
+                    "name": "Kelkalyn"
+                }, 
+                {
+                    "name": "Larael"
+                }, 
+                {
+                    "name": "Liryk"
+                }, 
+                {
+                    "name": "Loryagis"
+                }, 
+                {
+                    "name": "Laekkar"
+                }, 
+                {
+                    "name": "Levindal"
+                }, 
+                {
+                    "name": "Morgan"
+                }, 
+                {
+                    "name": "Morthil"
+                }, 
+                {
+                    "name": "Myril"
+                }, 
+                {
+                    "name": "Myrin"
+                }, 
+                {
+                    "name": "Molostroi"
+                }, 
+                {
+                    "name": "Neldor"
+                }, 
+                {
+                    "name": "Nieven"
+                }, 
+                {
+                    "name": "Nym"
+                }, 
+                {
+                    "name": "Nardual"
+                }, 
+                {
+                    "name": "Nelaeryn"
+                }, 
+                {
+                    "name": "Orym"
+                }, 
+                {
+                    "name": "Orris"
+                }, 
+                {
+                    "name": "Oribel"
+                }, 
+                {
+                    "name": "Onas"
+                }, 
+                {
+                    "name": "Oslarelar"
+                }, 
+                {
+                    "name": "Pharom"
+                }, 
+                {
+                    "name": "Pirphal"
+                }, 
+                {
+                    "name": "Paeris"
+                }, 
+                {
+                    "name": "Phaendar"
+                }, 
+                {
+                    "name": "Pyrder"
+                }, 
+                {
+                    "name": "Raegel"
+                }, 
+                {
+                    "name": "Rhistel"
+                }, 
+                {
+                    "name": "Reysalor"
+                }, 
+                {
+                    "name": "Raunaeril"
+                }, 
+                {
+                    "name": "Ravaphine"
+                }, 
+                {
+                    "name": "Saevel"
+                }, 
+                {
+                    "name": "Seiveril"
+                }, 
+                {
+                    "name": "Sharian"
+                }, 
+                {
+                    "name": "Silvyr"
+                }, 
+                {
+                    "name": "Sudryl"
+                }
+            ], 
+            "female": [
+                {
+                    "name": "Aemma"
+                }, 
+                {
+                    "name": "Aegnor"
+                }, 
+                {
+                    "name": "Aelene"
+                }, 
+                {
+                    "name": "Akashi"
+                }, 
+                {
+                    "name": "Alais"
+                }, 
+                {
+                    "name": "Baelen"
+                }, 
+                {
+                    "name": "Blythe"
+                }, 
+                {
+                    "name": "Bonna"
+                }, 
+                {
+                    "name": "Braerindra"
+                }, 
+                {
+                    "name": "Baela"
+                }, 
+                {
+                    "name": "Calarel"
+                }, 
+                {
+                    "name": "Chandrelle"
+                }, 
+                {
+                    "name": "Cauladra"
+                }, 
+                {
+                    "name": "Caerthynna"
+                }, 
+                {
+                    "name": "Celebrian"
+                }, 
+                {
+                    "name": "Daealla"
+                }, 
+                {
+                    "name": "Daena"
+                }, 
+                {
+                    "name": "Doreah"
+                }, 
+                {
+                    "name": "Daenys"
+                }, 
+                {
+                    "name": "Daeharice"
+                }, 
+                {
+                    "name": "Elaria"
+                }, 
+                {
+                    "name": "Ellania"
+                }, 
+                {
+                    "name": "Elora"
+                }, 
+                {
+                    "name": "Elyssa"
+                }, 
+                {
+                    "name": "Elenwe"
+                }, 
+                {
+                    "name": "Filaurel"
+                }, 
+                {
+                    "name": "Fraeya"
+                }, 
+                {
+                    "name": "Filauria"
+                }, 
+                {
+                    "name": "Fildaerae"
+                }, 
+                {
+                    "name": "Finduilas"
+                }, 
+                {
+                    "name": "Gaelira"
+                }, 
+                {
+                    "name": "Galadriel"
+                }, 
+                {
+                    "name": "Gaylia"
+                }, 
+                {
+                    "name": "Gilgalad"
+                }, 
+                {
+                    "name": "Gweyr"
+                }, 
+                {
+                    "name": "Haela"
+                }, 
+                {
+                    "name": "Halama"
+                }, 
+                {
+                    "name": "Holone"
+                }, 
+                {
+                    "name": "Hycis"
+                }, 
+                {
+                    "name": "Holcene"
+                }, 
+                {
+                    "name": "Ialantha"
+                }, 
+                {
+                    "name": "Idril"
+                }, 
+                {
+                    "name": "Imizael"
+                }, 
+                {
+                    "name": "Ithirae"
+                }, 
+                {
+                    "name": "Imdalace"
+                }, 
+                {
+                    "name": "Jahandra"
+                }, 
+                {
+                    "name": "Jassinya"
+                }, 
+                {
+                    "name": "Jhaeriana"
+                }, 
+                {
+                    "name": "Jhaana"
+                }, 
+                {
+                    "name": "Jhaartyria"
+                }, 
+                {
+                    "name": "Kaeda"
+                }, 
+                {
+                    "name": "Kaylessa"
+                }, 
+                {
+                    "name": "Keerla"
+                }, 
+                {
+                    "name": "Keya"
+                }, 
+                {
+                    "name": "Kythaela"
+                }, 
+                {
+                    "name": "Laeanna"
+                }, 
+                {
+                    "name": "Laena"
+                }, 
+                {
+                    "name": "Lazziar"
+                }, 
+                {
+                    "name": "Leandra"
+                }, 
+                {
+                    "name": "Lorelei"
+                }, 
+                {
+                    "name": "Maegelle"
+                }, 
+                {
+                    "name": "Meara"
+                }, 
+                {
+                    "name": "Mereena"
+                }, 
+                {
+                    "name": "Miriel"
+                }, 
+                {
+                    "name": "Morwen"
+                }, 
+                {
+                    "name": "Nuovis"
+                }, 
+                {
+                    "name": "Nusahala"
+                }, 
+                {
+                    "name": "Nylaathria"
+                }, 
+                {
+                    "name": "Nym"
+                }, 
+                {
+                    "name": "Nieven"
+                }, 
+                {
+                    "name": "Oluevaera"
+                }, 
+                {
+                    "name": "Oona"
+                }, 
+                {
+                    "name": "Orymia"
+                }, 
+                {
+                    "name": "Orrisya"
+                }, 
+                {
+                    "name": "Onas"
+                }, 
+                {
+                    "name": "Phaerle"
+                }, 
+                {
+                    "name": "Phantyni"
+                }, 
+                {
+                    "name": "Phyrra"
+                }, 
+                {
+                    "name": "Pirphala"
+                }, 
+                {
+                    "name": "Paerisa"
+                }, 
+                {
+                    "name": "Quaula"
+                }, 
+                {
+                    "name": "Quamara"
+                }, 
+                {
+                    "name": "Quaerla"
+                }, 
+                {
+                    "name": "Quiphala"
+                }, 
+                {
+                    "name": "Quevena"
+                }, 
+                {
+                    "name": "Reinys"
+                }, 
+                {
+                    "name": "Rubrae"
+                }, 
+                {
+                    "name": "Rathiain"
+                }, 
+                {
+                    "name": "Renestrae"
+                }, 
+                {
+                    "name": "Ryllae"
+                }, 
+                {
+                    "name": "Shalana"
+                }, 
+                {
+                    "name": "Sheedra"
+                }, 
+                {
+                    "name": "Saelihn"
+                }, 
+                {
+                    "name": "Sasha"
+                }, 
+                {
+                    "name": "Soliania"
+                }, 
+                {
+                    "name": "Taena"
+                }, 
+                {
+                    "name": "Taeriel"
+                }, 
+                {
+                    "name": "Talindra"
+                }, 
+                {
+                    "name": "Tamara"
+                }, 
+                {
+                    "name": "Takari"
+                }, 
+                {
+                    "name": "Urmica"
+                }, 
+                {
+                    "name": "Uona"
+                }, 
+                {
+                    "name": "Uendra"
+                }, 
+                {
+                    "name": "Ureliaena"
+                }, 
+                {
+                    "name": "Ureven"
+                }, 
+                {
+                    "name": "Vaella"
+                }, 
+                {
+                    "name": "Veara"
+                }, 
+                {
+                    "name": "Vestele"
+                }, 
+                {
+                    "name": "Viserra"
+                }, 
+                {
+                    "name": "Valindra"
+                }, 
+                {
+                    "name": "Ymeha"
+                }, 
+                {
+                    "name": "Ymiela"
+                }, 
+                {
+                    "name": "Yaereene"
+                }, 
+                {
+                    "name": "Yrlissa"
+                }, 
+                {
+                    "name": "Ynshael"
+                }, 
+                {
+                    "name": "Zeale"
+                }, 
+                {
+                    "name": "Zabbas"
+                }, 
+                {
+                    "name": "Zaltarish"
+                }, 
+                {
+                    "name": "Zaeliena"
+                }, 
+                {
+                    "name": "Zelya"
+                }
+            ]
+        }
+    }
+]
