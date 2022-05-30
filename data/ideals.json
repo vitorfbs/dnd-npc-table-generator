@@ -1,63 +1,125 @@
 [
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    },
-    {
-      "ideal": ""
-    }
-  ]
+  {
+    "good" : [
+      {
+        "ideal": "Beleza"
+      },
+      {
+        "ideal": "Caridade"
+      },
+      {
+        "ideal": "O bem maior"
+      },
+      {
+        "ideal": "Vida"
+      },
+      {
+        "ideal": "Respeito"
+      },
+      {
+        "ideal": "Sacrífico próprio"
+      }
+    ],
+    "evil" : [
+      {
+        "ideal": "Dominação"
+      },
+      {
+        "ideal": "Ganância"
+      },
+      {
+        "ideal": "Dor"
+      },
+      {
+        "ideal": "Retribuição"
+      },
+      {
+        "ideal": "Poder"
+      },
+      {
+        "ideal": "Extermínio"
+      }
+    ],
+    "lawful" : [
+      {
+        "ideal": "Comunidade"
+      },
+      {
+        "ideal": "Justiça"
+      },
+      {
+        "ideal": "Honra"
+      },
+      {
+        "ideal": "Lógica"
+      },
+      {
+        "ideal": "Responsabilidade"
+      },
+      {
+        "ideal": "Tradição"
+      }
+    ],
+    "neutral" : [
+      {
+        "ideal": "Balanço"
+      },
+      {
+        "ideal": "Conhecimento"
+      },
+      {
+        "ideal": "Viva e deixe viver"
+      },
+      {
+        "ideal": "Moderação"
+      },
+      {
+        "ideal": "Pessoas"
+      },
+      {
+        "ideal": "Neutralidade"
+      }
+    ],
+    "chaotic" : [
+      {
+        "ideal": "Mudança"
+      },
+      {
+        "ideal": "Criatividade"
+      },
+      {
+        "ideal": "Liberdade"
+      },
+      {
+        "ideal": "Independência"
+      },
+      {
+        "ideal": "Sem limites"
+      },
+      {
+        "ideal": "Diversão"
+      }
+    ],
+    "other" : [
+      {
+        "ideal": "Aspiração"
+      },
+      {
+        "ideal": "Descoberta"
+      },
+      {
+        "ideal": "Glória"
+      },
+      {
+        "ideal": "Nação"
+      },
+      {
+        "ideal": "Redenção"
+      },
+      {
+        "ideal": "Auto-conhecimento"
+      }
+    ]
+  }
+]
   
